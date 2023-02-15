@@ -1,0 +1,33 @@
+h1{
+  text-align:center;
+  color: #c08cb9
+
+}
+h2{
+  text-align:center;
+  color: #d2adcd
+
+}
+h3{
+  text-align: center;
+  color: #7b5aac
+
+}
+body{
+ background:  url("https://media.npr.org/assets/img/2022/11/10/her-loss-cover_sq-62fd128d2ba26eb5bb098ba3bcf1b3ad4ed33419-s1100-c50.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-color: rgba(255, 255, 255, 0.7);
+ background-blend-mode: lighten;
+  position: center;
+
+}
+
+img{
+  width: 200px;
+}
+
+table, th,td{
+  border:1px solid black;
+  background-color: 
+;
+}
